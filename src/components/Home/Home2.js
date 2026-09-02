@@ -13,38 +13,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              Hi! I’m <span className="purple">Aliffatur Rifki</span>, a student from <span className="purple">Indonesia</span> with a strong interest in <span className="purple">Web Development</span>.
               <br />
               <br />
-              I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
-              </i>
-              — and I enjoy working across both backend and frontend stacks.
+              I enjoy creating websites, learning new technologies, and continuously improving my programming skills. I’m especially interested in building modern and responsive web applications.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              Outside of coding, I’m a <span className="purple">Japanese enthusiast</span> and enjoy <span className="purple">calisthenics</span> as part of my daily life. I believe that consistency, curiosity, and continuous learning are important for personal and professional growth.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
